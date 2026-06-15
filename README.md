@@ -244,8 +244,8 @@ file-upload-portal
 
 ## Author
 
-Sahana Shree U.P
+Varshini P
 
-Final Year Information Technology Student
+BE-Computer Science and Engineering
 
-Project: File Upload Portal With Progress And Validation
+
